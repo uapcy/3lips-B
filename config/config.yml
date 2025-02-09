@@ -36,3 +36,10 @@ map:
 3lips:
   save: true
   tDelete: 60
+
+  reference_point:
+  latitude: 40.7128
+  longitude: -74.0060
+  altitude: 10  # Preset reference altitude (meters)
+
+default_time_interval: 5  # Time interval in seconds for velocity calculation
